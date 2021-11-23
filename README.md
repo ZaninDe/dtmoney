@@ -42,7 +42,7 @@
    <img src="./github/image4.png" width="400px">
 </div>
    
- # :gif: Gif
+ # :camera: Gif
 <div align="center">
    <img src="./github/dtgif.gif" width="700px">
 </div>
