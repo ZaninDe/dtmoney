@@ -41,6 +41,11 @@
    <img src="./github/image3.png" width="400px">
    <img src="./github/image4.png" width="400px">
 </div>
+   
+ # :camera: Screenshots
+<div align="center">
+   <img src="./github/dtgif.git"400">
+</div>
 
 # :rocket: Technologies
 This project was made using the follow technologies:
