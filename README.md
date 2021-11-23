@@ -36,10 +36,10 @@
 
 # :camera: Screenshots
 <div align="center">
-   <img src="./.github/image1.pgn" width="400px">
-   <img src="./.github/image2.pgn" width="400px">
-   <img src="./.github/image3.pgn" width="400px">
-   <img src="./.github/image4.pgn" width="400px">
+   <img src="./github/image1.png" width="400px">
+   <img src="./github/image2.png" width="400px">
+   <img src="./github/image3.png" width="400px">
+   <img src="./github/image4.png" width="400px">
 </div>
 
 # :rocket: Technologies
