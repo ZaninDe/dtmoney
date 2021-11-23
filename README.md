@@ -36,7 +36,7 @@
 
 # :camera: Screenshots
 <div align="center">
-   <img src="./github/image1.png" width="300px">
+   <img src="./github/image1.png" width="350px">
    <img src="./github/image2.png" width="400px">
    <img src="./github/image3.png" width="400px">
    <img src="./github/image4.png" width="400px">
