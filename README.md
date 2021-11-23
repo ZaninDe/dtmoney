@@ -6,11 +6,11 @@
    <a href="https://www.linkedin.com/in/gabriel-zanin-ab802a206//">
       <img alt="ZaninDe" src="https://img.shields.io/badge/-ZaninDe-5965e0?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/LeonneBrito/dt.money?color=%235963C5" />
-  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/LeonneBrito/dt.money?color=%235761C3" />
-  <img alt="License" src="https://img.shields.io/github/license/LeonneBrito/dt.money?color=%235E69D7" />
-  <img alt="Issues" src="https://img.shields.io/github/issues/LeonneBrito/dt.money?color=%235965E0">
-  <a href="mailto:britoleonne@gmail.com">
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/ZaninDe/dt.money?color=%235963C5" />
+  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/ZaninDe/dt.money?color=%235761C3" />
+  <img alt="License" src="https://img.shields.io/github/license/ZaninDe/dt.money?color=%235E69D7" />
+  <img alt="Issues" src="https://img.shields.io/github/issues/ZaninDe/dt.money?color=%235965E0">
+  <a href="mailto:gabriel.zaninde@gmail.com">
    <img alt="Email" src="https://img.shields.io/badge/-gabriel.zaninde@gmail.com-%23525DCB" />
   </a>
 </p>
