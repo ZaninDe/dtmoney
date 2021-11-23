@@ -44,7 +44,7 @@
    
  # :camera: Screenshots
 <div align="center">
-   <img src="./github/dtgif.gif"250">
+   <img src="./github/dtgif.gif" width="350px>
 </div>
 
 # :rocket: Technologies
